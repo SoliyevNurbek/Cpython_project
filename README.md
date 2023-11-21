@@ -1,1 +1,1 @@
-# Bu dasturlar cpython orqali yechilgan masalalar yechimlari
+# Bu dasturlar Cpython.uz orqali yechilgan masalalar yechimlari
